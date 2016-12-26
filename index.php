@@ -38,7 +38,7 @@
                     <h3>Vainglory League</h3>
                 </div>
             </header>
-            <main class="wrapper">
+            <main>
                 <h2>Home Page</h2>
                 <p>This is where all the content will be stored</p>
             </main>
