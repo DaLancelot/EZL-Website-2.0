@@ -1,5 +1,6 @@
 **EZL 2.0** *The League for Everyone*
 ===
+![EZL Banner](https://pbs.twimg.com/media/C0YGTiwUsAE5j9o.png:large)
 
 
 
@@ -10,17 +11,17 @@
 
 ###Getting Started
 ===
-There are several ways you can clone this repository but for the sake of simplicity let's just use the *Github Desktop client*. It makes it easy to add/create and clone repositories right from your computer without having to open your browser.
+There are several ways you can clone this repository but for the sake of simplicity let's just use the *Github Desktop client*. It makes it easy to add, create and clone repositories right from your computer without having to open your browser.
 Here is a quick guide to get you started:
 
-1. First thing you will need to do is download the client from *[this link here!](https://desktop.github.com/)*
-2. Now that the client is downloaded, install and to configure it, EZ PZ. Log in and follow the little tutorial they made to get you started(it will help you get used to its interface and features).
-3. What you need now is to *fork* the repository. *__But__* before you do thas you will have to download another tiny program that will let you see the changes you made to the `.php` files. You can download it right from *[this other cool link!](https://www.mamp.info/de/downloads/)* and do the following:
+1. First thing you need to do is download the client from *[this link here!](https://desktop.github.com/)*
+2. Now that the client is downloaded, install and configure it, EZ PZ. Log in and follow the little tutorial they made to get you started(it will help you get used to the interface and its features).
+3. What you need to do now is *fork* the repository. *__But__* before you do that you will have to download another tiny program that will let you see the changes you make to the `.php` files. You can download it right from *[this other cool link!](https://www.mamp.info/de/downloads/)* and do the following:
     - [x] Downloaded, now install!
     2. Once that's done, you shall launch it and make sure the **Apache Web Server** is running.
 4. Once you have *MAMP* set up and running you can go ahead and *fork* the repository:
-    1. Go to the top of this page and click the button that says "fork" right at the top right side next to "Watch" and "Star".
-    2. Once it's done forking go to your client and clone the repository but make sure you **clone it inside your MAMP projects folder called htdocs**, it should be something like this:
+    1. Go to the top of this page and click the button that says "fork" right at the top, next to "Watch" and "Star".
+    2. Once it's done forking, go to your client and clone the repository and make sure you **clone it inside your MAMP projects folder called htdocs**, it should be something like this:
     
     `path/to/mamp/htdocs/EZL-Website-2.0`
     
