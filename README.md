@@ -13,9 +13,9 @@
 There are several ways you can clone this repository but for the sake of simplicity let's just use the *Github Desktop client*. It makes it easy to add/create and clone repositories right from your computer without having to open your browser.
 Here is a quick guide to get you started:
 
-1. First thing you will need to do is Download the client from *[this link here!](https://desktop.github.com/)*
-2. Now that the client is installed you will have to configure it, EZ PZ. Log in and follow the little tutorial they made to get you started.
-3. What you need now is to *fork* the repository. *__But__* before you do this you will have to download another tiny program that will let you see the changes you made to the `.php` files. You can download it right from *[this other cool link!](https://www.mamp.info/de/downloads/)* and do the following:
+1. First thing you will need to do is download the client from *[this link here!](https://desktop.github.com/)*
+2. Now that the client is downloaded, install and to configure it, EZ PZ. Log in and follow the little tutorial they made to get you started(it will help you get used to its interface and features).
+3. What you need now is to *fork* the repository. *__But__* before you do thas you will have to download another tiny program that will let you see the changes you made to the `.php` files. You can download it right from *[this other cool link!](https://www.mamp.info/de/downloads/)* and do the following:
     - [x] Downloaded, now install!
     2. Once that's done, you shall launch it and make sure the **Apache Web Server** is running.
 4. Once you have *MAMP* set up and running you can go ahead and *fork* the repository:
